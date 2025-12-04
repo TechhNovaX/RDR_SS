@@ -1,0 +1,8 @@
+-qw%e0C2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A250000%c16%f#f -F "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" -%F "" -%l "en, *" -%X "Accept-Language: en-US,en;q=0.9" -%X "Upgrade-Insecure-Requests: 1" https://gowrisoftsolutions.com/ -O1 "C:\My Web Sites\gowrisoftsolutions" +https://gowrisoftsolutions.com/* +*.png +*.jpg +*.jpeg +*.gif +*.svg +*.css +*.js +*.ttf +*.woff +*.woff2 -*.zip -*.exe -*.pdf
+File generated automatically on Sun, 30 Nov 2025 20:39:06, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+

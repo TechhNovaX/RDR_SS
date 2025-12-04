@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 30 Nov 2025 20:39:06 at https://gowrisoftsolutions.com/ +https://gowrisoftsolutions.com/* +*.png +*.jpg +*.jpeg +*.gif +*.svg +*.css +*.js +*.ttf +*.woff +*.woff2 -*.zip -*.exe -*.pdf
+(winhttrack -qw%e0C2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A250000%c16%f#f -F "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" -%F  -%l "en, *" -%X "Accept-Language: en-US,en;q=0.9" -%X "Upgrade-Insecure-Requests: 1" https://gowrisoftsolutions.com/ -O1 "C:\My Web Sites\gowrisoftsolutions" +https://gowrisoftsolutions.com/* +*.png +*.jpg +*.jpeg +*.gif +*.svg +*.css +*.js +*.ttf +*.woff +*.woff2 -*.zip -*.exe -*.pdf )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:39:06	Warning: 	* security warning: maximum number of connections per second limited to 5.000000 to avoid server overload
+20:39:45	Error: 	"Not Found" (404) at link https://gowrisoftsolutions.com/images/banner/1.jpg (from https://gowrisoftsolutions.com/css/style.css)
+20:39:45	Error: 	"Not Found" (404) at link https://gowrisoftsolutions.com/images/banner/9.jpg (from https://gowrisoftsolutions.com/css/style.css)
+20:39:45	Error: 	"Not Found" (404) at link https://gowrisoftsolutions.com/pages/domains/domains/Education.html (from https://gowrisoftsolutions.com/pages/domains/Education.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 39 seconds : 149 links scanned, 145 files written (10744715 bytes overall) [9308392 bytes received at 238676 bytes/sec], 1873116 bytes transferred using HTTP compression in 68 files, ratio 20%, 29.8 requests per connection
+(3 errors, 1 warnings, 0 messages)
